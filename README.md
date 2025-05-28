@@ -89,3 +89,6 @@ MIT License - Free for personal and commercial use
 3. **Table Format** - For troubleshooting common issues
 4. **Safety Tips** - Important for avoiding account restrictions
 5. **Configuration Examples** - Ready-to-copy code blocks
+
+
+You can write me in telegram: @neoboom
