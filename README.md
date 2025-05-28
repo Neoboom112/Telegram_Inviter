@@ -1,14 +1,7 @@
-# Telegram_Inviter
-Here's a professional `README.md` file for your GitHub repository:
 
-```markdown
 # Telegram Mass Inviter Bot 🤖
 
 A powerful Python bot for automatically inviting users to Telegram groups/channels from a CSV list. Handles flood control, preserves progress, and skips already invited users.
-
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
-![Pyrogram](https://img.shields.io/badge/Pyrogram-2.0%2B-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Features ✨
 
